@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="./ihr_bild.jpg" alt="Holger Rode" width="220" />
-</p>
-
-<p align="center">
   Hi! I'm Holger — a mechanical engineer and certified welding engineer with many years of experience in design, product development, and technical project work.
   <br /><br />
   I enjoy developing practical solutions, improving workflows, and connecting engineering with digital tools.
