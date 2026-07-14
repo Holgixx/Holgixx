@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="./header_blueprint_wave_2026-05-02.svg" alt="Holger Rode Header" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./header_signatur_banner_dunkel_2026-07-14.jpg" />
+    <source media="(prefers-color-scheme: light)" srcset="./header_signatur_banner_hell_2026-07-14.jpg" />
+    <img src="./header_signatur_banner_hell_2026-07-14.jpg" alt="Holger Rode Header" width="100%" />
+  </picture>
 </p>
 
 <p align="center">
