@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./header_signatur_banner_dunkel_2026-07-14.jpg" />
-    <source media="(prefers-color-scheme: light)" srcset="./header_signatur_banner_hell_2026-07-14.jpg" />
-    <img src="./header_signatur_banner_hell_2026-07-14.jpg" alt="Holger Rode Header" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./header_grid_2026-07-14_dunkel.jpg" />
+    <source media="(prefers-color-scheme: light)" srcset="./header_grid_2026-07-14_hell.jpg" />
+    <img src="./header_grid_2026-07-14_hell.jpg" alt="Holger Rode Header" width="100%" />
   </picture>
 </p>
 
@@ -40,5 +40,9 @@
   &nbsp;|&nbsp;
   <a href="mailto:Holger.Rode@h-ro.de" title="E-Mail" style="text-decoration: none">
     E-Mail
+  </a>
+  &nbsp;|&nbsp;
+  <a href="https://h-ro.de" target="_blank" title="Website" style="text-decoration: none">
+    h-ro.de
   </a>
 </p>
