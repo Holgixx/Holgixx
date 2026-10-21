@@ -42,7 +42,7 @@
     E-Mail
   </a>
   &nbsp;|&nbsp;
-  <a href="https://h-ro.de" target="_blank" title="Website" style="text-decoration: none">
+  <a href="https://gridform.h-ro.de" target="_blank" title="Website" style="text-decoration: none">
     h-ro.de
   </a>
 </p>
